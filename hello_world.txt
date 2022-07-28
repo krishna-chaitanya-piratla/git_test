@@ -1,2 +1,4 @@
 Adding dummy text
-adding dummy text again and again
+adding dummy text again and again and again
+
+again to test git commit
